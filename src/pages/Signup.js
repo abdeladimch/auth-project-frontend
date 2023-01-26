@@ -44,7 +44,7 @@ const Signup = () => {
         navigate("/");
       }, 1000);
     }
-  }, [user]);
+  }, [user, navigate]);
 
   return (
     <div className="bg-slate-400 min-h-screen flex justify-center items-center">
