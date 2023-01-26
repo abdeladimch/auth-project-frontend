@@ -7,4 +7,4 @@
 
 ## Live Site
 
-[Auth Project]()
+[Auth Project](https://auth-project-frontend.netlify.app)
